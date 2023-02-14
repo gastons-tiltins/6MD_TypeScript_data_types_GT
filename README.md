@@ -3,4 +3,4 @@
 ```
 npm i
 ```
-###`check scripts.ts file`###
+### `check scripts.ts file`
