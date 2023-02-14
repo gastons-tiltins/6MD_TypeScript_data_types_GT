@@ -1,10 +1,6 @@
-# html_ts_boilerplate
-To start coding open your terminal and write
+# 6MD TypeScript data types GT
+
 ```
 npm i
 ```
-
-When all packages have been installed run:
-```
-npm start
-```
+###`check scripts.ts file`###
