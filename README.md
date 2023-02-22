@@ -1,4 +1,4 @@
-# 6MD TypeScript data types GT
+# TypeScript data types GT
 
 Instructions:
 
